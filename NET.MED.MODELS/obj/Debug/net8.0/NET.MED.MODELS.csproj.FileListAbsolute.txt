@@ -1,0 +1,15 @@
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\bin\Debug\net8.0\NET.MED.MODELS.deps.json
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\bin\Debug\net8.0\NET.MED.MODELS.runtimeconfig.json
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\bin\Debug\net8.0\NET.MED.MODELS.dll
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\bin\Debug\net8.0\NET.MED.MODELS.pdb
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.csproj.AssemblyReference.cache
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.AssemblyInfoInputs.cache
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.AssemblyInfo.cs
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.csproj.CoreCompileInputs.cache
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.sourcelink.json
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.dll
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\refint\NET.MED.MODELS.dll
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.pdb
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\NET.MED.MODELS.genruntimeconfig.cache
+P:\projects\cp05_net02\CP5\NET.MED.MODELS\obj\Debug\net8.0\ref\NET.MED.MODELS.dll

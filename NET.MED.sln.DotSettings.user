@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b19901b_002D4f0a_002D450e_002Db4ac_002D6cfba750be51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;NET.MED.TESTS&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="P:\projects\cp05_net02\CP5\NET.MED.TESTS" Presentation="&amp;lt;NET.MED.TESTS&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4b8b959d_002Dd625_002D4a62_002D8956_002Dfa56fbea4383/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;NET.MED.TESTS&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="P:\projects\cp05_net02\CP5\NET.MED.TESTS" Presentation="&amp;lt;NET.MED.TESTS&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b963e0f7_002D226b_002D4fc3_002D9a27_002D0751335f1d6b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;NET.MED.TESTS&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="P:\projects\cp05_net02\CP5\NET.MED.TESTS" Presentation="&amp;lt;NET.MED.TESTS&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b97605d3_002Dab9d_002D4586_002D8638_002D4827c01594e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;NET.MED.TESTS&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="P:\projects\cp05_net02\CP5\NET.MED.TESTS" Presentation="&amp;lt;NET.MED.TESTS&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef912091_002D8ec0_002D4a38_002D8cc1_002D7936bc26b11c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;NET.MED.TESTS&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="P:\projects\cp05_net02\CP5\NET.MED.TESTS" Presentation="&amp;lt;NET.MED.TESTS&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

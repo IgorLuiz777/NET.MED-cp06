@@ -1,0 +1,6 @@
+@NET.MED.API_HostAddress = http://localhost:5120
+
+GET {{NET.MED.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

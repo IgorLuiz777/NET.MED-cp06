@@ -1,0 +1,16 @@
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\bin\Debug\net8.0\NET.MED.REPOSITORY.deps.json
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\bin\Debug\net8.0\NET.MED.REPOSITORY.dll
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\bin\Debug\net8.0\NET.MED.REPOSITORY.pdb
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\bin\Debug\net8.0\NET.MED.MODELS.dll
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\bin\Debug\net8.0\NET.MED.MODELS.pdb
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.csproj.AssemblyReference.cache
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.AssemblyInfoInputs.cache
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.AssemblyInfo.cs
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.csproj.CoreCompileInputs.cache
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.sourcelink.json
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED..876887F3.Up2Date
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.dll
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\refint\NET.MED.REPOSITORY.dll
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\NET.MED.REPOSITORY.pdb
+P:\projects\cp05_net02\CP5\NET.MED.REPOSITORY\obj\Debug\net8.0\ref\NET.MED.REPOSITORY.dll
